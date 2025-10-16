@@ -1,2 +1,2 @@
 # public_html
-my firat html page
+my first static html page
